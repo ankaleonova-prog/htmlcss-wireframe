@@ -1,6 +1,8 @@
 #body {
     margin: 0;
-    padding: 0;
+        padding: 0;
+        min-height: 100vh; 
+        margin-bottom: 50px;
 }
 #underline {
     width: 100%;           
